@@ -1,0 +1,6 @@
+{
+  "parent" : "archaeology:block/level_2",
+  "textures" : {
+    "all" : "minecraft:block/sand"
+  }
+}

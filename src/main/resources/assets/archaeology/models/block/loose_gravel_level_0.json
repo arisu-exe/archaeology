@@ -1,0 +1,6 @@
+{
+  "parent" : "archaeology:block/level_0",
+  "textures" : {
+    "all" : "minecraft:block/gravel"
+  }
+}

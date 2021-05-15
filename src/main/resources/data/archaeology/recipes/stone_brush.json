@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "WWW",
+    " # "
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:feather"
+    },
+    "W": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "archaeology:stone_brush",
+    "count": 1
+  }
+}

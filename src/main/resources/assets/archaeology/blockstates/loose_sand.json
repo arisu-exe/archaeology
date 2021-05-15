@@ -1,0 +1,52 @@
+{
+  "variants" : {
+    "level=15" : {
+      "model": "archaeology:block/loose_sand_level_15"
+    },
+    "level=14" : {
+      "model": "archaeology:block/loose_sand_level_14"
+    },
+    "level=13" : {
+      "model": "archaeology:block/loose_sand_level_13"
+    },
+    "level=12" : {
+      "model": "archaeology:block/loose_sand_level_12"
+    },
+    "level=11" : {
+      "model": "archaeology:block/loose_sand_level_11"
+    },
+    "level=10" : {
+      "model": "archaeology:block/loose_sand_level_10"
+    },
+    "level=9" : {
+      "model": "archaeology:block/loose_sand_level_9"
+    },
+    "level=8" : {
+      "model": "archaeology:block/loose_sand_level_8"
+    },
+    "level=7" : {
+      "model": "archaeology:block/loose_sand_level_7"
+    },
+    "level=6" : {
+      "model": "archaeology:block/loose_sand_level_6"
+    },
+    "level=5" : {
+      "model": "archaeology:block/loose_sand_level_5"
+    },
+    "level=4" : {
+      "model": "archaeology:block/loose_sand_level_4"
+    },
+    "level=3" : {
+      "model": "archaeology:block/loose_sand_level_3"
+    },
+    "level=2" : {
+      "model": "archaeology:block/loose_sand_level_2"
+    },
+    "level=1" : {
+      "model": "archaeology:block/loose_sand_level_1"
+    },
+    "level=0" : {
+      "model": "archaeology:block/loose_sand_level_0"
+    }
+  }
+}

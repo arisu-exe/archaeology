@@ -1,0 +1,25 @@
+{
+  "type": "archaeology:brushed",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 81,
+          "name": "minecraft:iron_nugget"
+        }
+      ]
+    }
+  ]
+}

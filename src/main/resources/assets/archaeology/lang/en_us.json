@@ -1,0 +1,10 @@
+{
+  "block.archaeology.loose_dirt" : "Loose Dirt",
+  "block.archaeology.loose_gravel" : "Loose Gravel",
+  "block.archaeology.loose_sand" : "Loose Sand",
+
+
+
+  "item.archaeology.wooden_brush" : "Wooden Brush",
+  "item.archaeology.stone_brush" : "Stone Brush"
+}

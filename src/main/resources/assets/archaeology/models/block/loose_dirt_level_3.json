@@ -1,0 +1,6 @@
+{
+  "parent" : "archaeology:block/level_3",
+  "textures" : {
+    "all" : "minecraft:block/dirt"
+  }
+}

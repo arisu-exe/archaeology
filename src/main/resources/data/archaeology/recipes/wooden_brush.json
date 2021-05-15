@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "WWW",
+    " # "
+  ],
+  "key": {
+    "Y": {
+      "item": "minecraft:feather"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "archaeology:wooden_brush",
+    "count": 1
+  }
+}

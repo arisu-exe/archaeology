@@ -1,0 +1,20 @@
+{
+  "type": "archaeology:brushed",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:emerald_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 9,
+          "name": "minecraft:emerald"
+        }
+      ]
+    }
+  ]
+}
