@@ -18,6 +18,11 @@
           "type": "minecraft:item",
           "weight": 81,
           "name": "minecraft:iron_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 54,
+          "name": "minecraft:flint"
         }
       ]
     }
